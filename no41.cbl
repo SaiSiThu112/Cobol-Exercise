@@ -1,0 +1,15 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. Exe41.
+       ENVIRONMENT DIVISION.
+
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+           01 GP1.
+               02 NUM1 PIC X(05) VALUE PAPOO.
+
+       PROCEDURE DIVISION.
+       MAIN-PROCEDURE.
+
+            STOP RUN.
+
+       END PROGRAM Exe41.
